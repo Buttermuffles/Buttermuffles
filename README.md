@@ -65,15 +65,15 @@ const butters = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=f59e0b&text_color=e2e8f0" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Buttermuffles&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=f59e0b&text_color=e2e8f0&rank_icon=github" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=e2e8f0" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buttermuffles&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=e2e8f0&langs_count=8" height="170" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=60a5fa&fire=f59e0b&currStreakLabel=60a5fa" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Buttermuffles&theme=tokyo-night&bg_color=0d1117&color=60a5fa&line=3b82f6&point=f59e0b&hide_border=true&area=true&area_color=1e3a5f" width="95%" />
 </div>
 
 ---
